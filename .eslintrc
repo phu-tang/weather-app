@@ -21,6 +21,7 @@
           "endOfLine":"auto"
       }
     ],
-    "no-unused-vars": ["error", { "vars": "all", "args": "after-used", "ignoreRestSiblings": false }]
+    "no-unused-vars": ["error", { "vars": "all", "args": "after-used", "ignoreRestSiblings": false }],
+    "import/no-anonymous-default-export": 0
   }
 }

@@ -1,8 +1,13 @@
 import React from 'react';
-import './App.css';
+import 'antd/dist/antd.css';
+import CitiSelect from './component/citiSelect';
 
 function App() {
-  return <div className="App"></div>;
+  return (
+    <div className="App">
+      <CitiSelect />
+    </div>
+  );
 }
 
 export default App;
