@@ -1,11 +1,11 @@
 import React from 'react';
 import 'antd/dist/antd.css';
-import CitiSelect from './component/citiSelect';
+import WeatherScreen from './component/weatherScreen';
 
 function App() {
   return (
     <div className="App">
-      <CitiSelect />
+      <WeatherScreen />
     </div>
   );
 }

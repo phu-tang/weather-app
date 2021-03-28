@@ -22,6 +22,6 @@ const citySlice = createSlice({
     changeCity: (_, { payload }) => payload,
   },
 });
-export const onChangeCity = citySlice.actions.onChangeCity;
+export const onChangeCity = citySlice.actions.changeCity;
 
 export default citySlice.reducer;
