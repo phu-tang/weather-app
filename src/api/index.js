@@ -1,7 +1,7 @@
 import { makeFetchAction } from 'redux-api-call';
 import { stringify } from 'query-string';
 
-export const queryCity = makeFetchAction('querySelector', (query) => ({
+export const queryCity = makeFetchAction('queryCity', (query) => ({
   endpoint: `${process.env.REACT_APP_API_ENPOINT}/api/location/search/?${stringify({
     query,
   })}`,
