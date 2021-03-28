@@ -1,0 +1,275 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`citi select effect Citi select index renders correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="ant-row"
+    style="margin: -8px -8px -8px -8px;"
+  >
+    <div
+      class="ant-col ant-col-4"
+      style="padding: 8px 8px 8px 8px;"
+    >
+      <div
+        class="ant-card ant-card-bordered ant-card-hoverable"
+      >
+        <div
+          class="ant-card-cover"
+        >
+          <img
+            alt="Heavy Cloud"
+            src="https://www.metaweather.com/static/img/weather/hc.svg"
+          />
+        </div>
+        <div
+          class="ant-card-body"
+        >
+          <div
+            class="ant-card-meta"
+          >
+            <div
+              class="ant-card-meta-detail"
+            >
+              <div
+                class="ant-card-meta-title"
+              >
+                Sunday
+              </div>
+              <div
+                class="ant-card-meta-description"
+              >
+                <p>
+                  Min: 8.29
+                </p>
+                <p>
+                  Max: 13.15
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ant-col ant-col-4"
+      style="padding: 8px 8px 8px 8px;"
+    >
+      <div
+        class="ant-card ant-card-bordered ant-card-hoverable"
+      >
+        <div
+          class="ant-card-cover"
+        >
+          <img
+            alt="Clear"
+            src="https://www.metaweather.com/static/img/weather/c.svg"
+          />
+        </div>
+        <div
+          class="ant-card-body"
+        >
+          <div
+            class="ant-card-meta"
+          >
+            <div
+              class="ant-card-meta-detail"
+            >
+              <div
+                class="ant-card-meta-title"
+              >
+                Monday
+              </div>
+              <div
+                class="ant-card-meta-description"
+              >
+                <p>
+                  Min: 8.33
+                </p>
+                <p>
+                  Max: 18.51
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ant-col ant-col-4"
+      style="padding: 8px 8px 8px 8px;"
+    >
+      <div
+        class="ant-card ant-card-bordered ant-card-hoverable"
+      >
+        <div
+          class="ant-card-cover"
+        >
+          <img
+            alt="Light Cloud"
+            src="https://www.metaweather.com/static/img/weather/lc.svg"
+          />
+        </div>
+        <div
+          class="ant-card-body"
+        >
+          <div
+            class="ant-card-meta"
+          >
+            <div
+              class="ant-card-meta-detail"
+            >
+              <div
+                class="ant-card-meta-title"
+              >
+                Tuesday
+              </div>
+              <div
+                class="ant-card-meta-description"
+              >
+                <p>
+                  Min: 7.47
+                </p>
+                <p>
+                  Max: 21.26
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ant-col ant-col-4"
+      style="padding: 8px 8px 8px 8px;"
+    >
+      <div
+        class="ant-card ant-card-bordered ant-card-hoverable"
+      >
+        <div
+          class="ant-card-cover"
+        >
+          <img
+            alt="Heavy Cloud"
+            src="https://www.metaweather.com/static/img/weather/hc.svg"
+          />
+        </div>
+        <div
+          class="ant-card-body"
+        >
+          <div
+            class="ant-card-meta"
+          >
+            <div
+              class="ant-card-meta-detail"
+            >
+              <div
+                class="ant-card-meta-title"
+              >
+                Wednesday
+              </div>
+              <div
+                class="ant-card-meta-description"
+              >
+                <p>
+                  Min: 9.13
+                </p>
+                <p>
+                  Max: 19.71
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ant-col ant-col-4"
+      style="padding: 8px 8px 8px 8px;"
+    >
+      <div
+        class="ant-card ant-card-bordered ant-card-hoverable"
+      >
+        <div
+          class="ant-card-cover"
+        >
+          <img
+            alt="Showers"
+            src="https://www.metaweather.com/static/img/weather/s.svg"
+          />
+        </div>
+        <div
+          class="ant-card-body"
+        >
+          <div
+            class="ant-card-meta"
+          >
+            <div
+              class="ant-card-meta-detail"
+            >
+              <div
+                class="ant-card-meta-title"
+              >
+                Thursday
+              </div>
+              <div
+                class="ant-card-meta-description"
+              >
+                <p>
+                  Min: 6.22
+                </p>
+                <p>
+                  Max: 13.39
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ant-col ant-col-4"
+      style="padding: 8px 8px 8px 8px;"
+    >
+      <div
+        class="ant-card ant-card-bordered ant-card-hoverable"
+      >
+        <div
+          class="ant-card-cover"
+        >
+          <img
+            alt="Heavy Cloud"
+            src="https://www.metaweather.com/static/img/weather/hc.svg"
+          />
+        </div>
+        <div
+          class="ant-card-body"
+        >
+          <div
+            class="ant-card-meta"
+          >
+            <div
+              class="ant-card-meta-detail"
+            >
+              <div
+                class="ant-card-meta-title"
+              >
+                Friday
+              </div>
+              <div
+                class="ant-card-meta-description"
+              >
+                <p>
+                  Min: 4.04
+                </p>
+                <p>
+                  Max: 12.43
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
