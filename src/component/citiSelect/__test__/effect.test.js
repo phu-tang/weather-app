@@ -1,6 +1,6 @@
 import configureStore from 'redux-mock-store';
 import createSagaMiddleware from 'redux-saga';
-import lolex from 'lolex';
+import lolex from '@sinonjs/fake-timers';
 import { all } from 'redux-saga/effects';
 import { ACTIONS } from 'redux-api-call';
 import { find, filter, size } from 'lodash/fp';
