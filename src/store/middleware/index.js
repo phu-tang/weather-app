@@ -1,5 +1,5 @@
 import createSagaMiddleware from 'redux-saga';
-import { middleware as apiMiddleware } from 'redux-api-call';
+import apiMiddleware from './apiMiddleware';
 import rootSaga from './rootSaga';
 
 const sagaMiddleware = createSagaMiddleware();
